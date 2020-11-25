@@ -1,0 +1,5 @@
+﻿  DLL.c
+C:\Users\Korisnik\Desktop\source\repos\DoubleLinkedList\DLL.c(6,24): warning C4091: 'typedef ': ignored on left of '_Element' when no variable is declared
+C:\Users\Korisnik\Desktop\source\repos\DoubleLinkedList\DLL.c(82,14): warning C4098: 'insertStart': 'void' function returning a value
+C:\Users\Korisnik\Desktop\source\repos\DoubleLinkedList\DLL.c(189): warning C4715: 'findEl': not all control paths return a value
+  DoubleLinkedList.vcxproj -> C:\Users\Korisnik\Desktop\source\repos\DoubleLinkedList\Debug\DoubleLinkedList.exe
